@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.enterpriseplc.templates.tutorial.sencha.app" version="1.0" width="320" height="480" start="index.html">
+<title>Tutorial - Sencha App</title>
+<description>Github: https://github.com/feedhenry/FH-Training-App-Sencha</description>
+<author name="" email="" url=""></author>
+<license></license>
+</widget>

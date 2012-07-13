@@ -1,0 +1,71 @@
+.mapIcon {
+	width: 100px !important;
+	width: 100px !important;
+	background-color: transparent !important;
+	border: none !important;
+  background-size: 100% 100%;
+  background-image: url("../images/icons/maps_icon.png") !important;
+}
+.mapIcon:active, .mapIcon:hover {
+	opacity: 0.5;
+}
+
+.twitterIcon {
+	width: 100px !important;
+	width: 100px !important;
+	background-color: transparent !important;
+	border: none !important;
+  background-size: 100% 100%;
+  background-image: url("../images/icons/twitter_icon.png") !important;
+}
+.twitterIcon:active, .twitterIcon:hover {
+	opacity: 0.5;
+}
+
+.settingsIcon {
+	width: 100px !important;
+	width: 100px !important;
+	background-color: transparent !important;
+	border: none !important;
+  background-size: 100% 100%;
+  background-image: url("../images/icons/settings_icon.png") !important;
+}
+.settingsIcon:active, .settingsIcon:hover {
+	opacity: 0.5;
+}
+
+.cameraIcon {
+	width: 100px !important;
+	width: 100px !important;
+	background-color: transparent !important;
+	border: none !important;
+  background-size: 100% 100%;
+  background-image: url("../images/icons/camera_icon.png") !important;
+}
+.cameraIcon:active, .cameraIcon:hover {
+	opacity: 0.5;
+}
+
+.webviewIcon {
+	width: 100px !important;
+	width: 100px !important;
+	background-color: transparent !important;
+	border: none !important;
+  background-size: 100% 100%;
+  background-image: url("../images/icons/webview_logo.png") !important;
+}
+.webviewIcon:active, .webviewIcon:hover {
+	opacity: 0.5;
+}
+
+.paymentIcon {
+	width: 100px !important;
+	width: 100px !important;
+	background-color: transparent !important;
+	border: none !important;
+  background-size: 100% 100%;
+  background-image: url("../images/icons/payment_icon.png") !important;
+}
+.paymentIcon:active, .paymentIcon:hover {
+	opacity: 0.5;
+}
